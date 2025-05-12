@@ -49,7 +49,7 @@ python calculator.py
 
 ## 📸 UI Preview
 
-> (You can add screenshots in the `assets/` folder and reference them here.)
+> (screenshots in the `assets/` folder and reference)
 
 ---
 
