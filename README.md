@@ -51,7 +51,9 @@ python calculator.py
 
 > (screenshots in the `assets/` folder and reference)
 
----
+---![ab1](https://github.com/user-attachments/assets/3c2fe04b-240b-465d-855c-f566500191d4)
+![ab4](https://github.com/user-attachments/assets/698499b6-d132-49d5-98c7-b2c5ad23b950)
+
 
 ## 👨‍💻 Author
 
